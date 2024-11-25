@@ -2,11 +2,11 @@
 
 ## Stats
 <div align="center" href="https://github.com/razedemyrrhguibone/github-readme-stats">
-  <img src="http://github-readme-stats-razedemyrrhguibone.vercel.app/api?username=razedemyrrhguibone&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats-6x0qa89jl-razedemyrrhguibone.vercel.app/api?username=razedemyrrhguibone&theme=tokyonight&show_icons=true" />
 </div>
 <br />
 <div align="center" href="https://github.com/razedemyrrhguibone/github-readme-stats">
-  <img src="http://github-readme-stats-razedemyrrhguibone.vercel.app/api/top-langs/?username=razedemyrrhguibone&theme=tokyonight" />
+  <img src="https://github-readme-stats-6x0qa89jl-razedemyrrhguibone.vercel.app/api/top-langs/?username=razedemyrrhguibone&theme=tokyonight" />
 </div>
 
 <!--
